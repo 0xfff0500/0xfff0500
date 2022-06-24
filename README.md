@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **New Malware**
 
-- 🌱 I’m currently learning **New coding Languages**
+- 🌱 I’m currently learning **ethical hacking**
 
 - 💬 Ask me **https://tellonym.me/x65**
 
