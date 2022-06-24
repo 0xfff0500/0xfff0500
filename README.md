@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xfff0500&" alt="0xfff0500" /></p>
 
-[![Spotify](https://n.smitheringale.vercel.app/api/spotify)](https://open.spotify.com/user/n.smitheringale)
+
