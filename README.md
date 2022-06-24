@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xfff0500&" alt="0xfff0500" /></p>
 
-src="https://status.nmoo.dev/now-playing" alt="unreal" width="40" height="40"/>
+<a href="https://status.nmoo.dev/now-playing" target="blank">
