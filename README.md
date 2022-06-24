@@ -29,5 +29,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xfff0500&" alt="0xfff0500" /></p>
 
-<konami-listener> <h1> Hello world! </h1>
-
