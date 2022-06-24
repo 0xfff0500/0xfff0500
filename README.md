@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+there%2C+I'm+0xfff0500!)](https://discord.gg/56)
 
-<h1 align="center">Hi 👋, I'm 0xff</h1>
 <h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xfff0500&label=Profile%20views&color=0e75b6&style=flat" alt="0xfff0500" /> </p>
