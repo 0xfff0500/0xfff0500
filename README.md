@@ -29,3 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xfff0500&" alt="0xfff0500" /></p>
 
+<a href="https://discord.com/users/847030527822266378"><img src="https://lanyard-profile-readme.vercel.app/api/847030527822266378?bg=transparentd&amp;borderRadius=8px&amp;hideDiscrim=true" alt="Discord profile"></a>
