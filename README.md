@@ -29,4 +29,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xfff0500&" alt="0xfff0500" /></p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/866061079209967677?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/866061079209967677)
