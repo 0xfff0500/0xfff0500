@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xfff0500" alt="0xfff0500" /></a> </p>
 
-- 🔭 I’m currently working on **New Malware**
+- 🔭 I’m currently working on **New Payload**
 
 - 🌱 I’m currently learning **ethical hacking**
 
